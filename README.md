@@ -1,4 +1,23 @@
-# win-folder-lock
+# Win-Folder-Lock
+
+Win-Folder-Lock é um arquivo simples de batch (.bat) escrito para atender uma necessidade muito comum. Esconder uma pasta de arquivos tanto em um computador pessoal, empresarial ou de midias removíveis.
+
+A técnica é simples, mas irá atender a muitas pessoas que precisam de uma ferramenta rapida sem muitos recursos para ocultar informações de forma temporária.
+
+A ferramenta foi encontrada na Internet e não tendo referências ao primeiro programador, foi realizado algumas modificações no arquivo original a fim de atender a necessidades específicas.
+
+# Modo de usar
+
+Modifique as variáveis _FOLDER_DIRECTORY_NAME_ e _USER_PASSWORD_ para personalizar o programa.
+
+_FOLDER_DIRECTORY_NAME_: coloque o nome do diretório que deseja esconder (não utilize diretórios com espaços no nome)
+_USER_PASSWORD_: coloque a senha que deseja que utilizar para mostrar a pasta quando estiver escondida.
+
+Exemplo:
+SET _FOLDER_DIRECTORY_NAME_=_FOLDER_TO_HIDE
+SET _USER_PASSWORD_=password123
+
+Roder o programa no mesmo diretório em que se encontra a pasta a ser ocultada.
 
 # End-User License Agreement (EULA)
 
