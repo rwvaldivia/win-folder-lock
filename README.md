@@ -19,6 +19,8 @@ SET _USER_PASSWORD_=password123
 
 Roder o programa no mesmo diretório em que se encontra a pasta a ser ocultada.
 
+Observacao importante: Por se tratar de um arquivo de batch seria mais interessante se você cria-se um arquivo binário para que ninguem possa alterar ou ver sua senha. Faça uma pesquisa no Google de algum programa que transforme o arquivo .bat para um arquivo .exe.
+
 # End-User License Agreement (EULA)
 
 Please read the conditions of this EULA carefully before you start to use Win-Folder-Lock - referred to as "software". Installing and using the software signifies acceptance of this EULA. If you do not accept the terms of this EULA, you must remove all software files from your storage devices and stop to use the software. This is freeware software, it's provided "AS IS".
